@@ -51,6 +51,8 @@ export default function App() {
 
   return (
     <SafeAreaView className="bg-white h-full">
+      {/* uncomment this Button and press it for populate the appwrite database */}
+      {/* <Button title="Seed" onPress={seed} /> */}
       <FlatList
         data={properties}
         renderItem={({ item }) => (
@@ -97,7 +99,7 @@ export default function App() {
                   </Text>
                 </TouchableOpacity>
               </View>
-              
+
               {latestPropertiesLoading ? (
                 <ActivityIndicator size="large" className="text.primary-300" />
               ) : !latestProperties || latestProperties.length === 0 ? (
