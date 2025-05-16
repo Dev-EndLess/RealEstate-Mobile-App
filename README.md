@@ -73,4 +73,14 @@ propertyType and facilities variables need to be equal to the ones in the appwri
 
 The Button for triggering the seed, is in the index.tsx file.
 
-    
+# Demo Preview
+
+| Login | Home | Explore |
+|:-------:|:------:|:------:|
+| <img src="https://github.com/user-attachments/assets/0e3c5a65-7177-4713-871b-e3c8f069b711" alt="login" width="260" height="500"/> | <img src="https://github.com/user-attachments/assets/e130fc82-5aca-4030-a017-34dd4a72ff47" alt="home" width="260" height="500"/> | <img src="https://github.com/user-attachments/assets/dcc9c36c-0a3e-46f5-bdd9-0337c586368a" alt="explore" width="260" height="500"/>|
+| Details 1 | Details 2 | Profile |
+| <img src="https://github.com/user-attachments/assets/5d733a29-e07d-46b5-a535-19a39f81be3c" alt="details-1" width="260" height="500"/> | <img src="https://github.com/user-attachments/assets/5c0e6f81-5fd3-4023-a00a-0c397b597fe9" alt="details-2" width="260" height="500"/> | <img src="https://github.com/user-attachments/assets/8cb469f5-20ce-4f7f-82ea-368a5843e6ac" alt="home" width="260" height="500"/>|
+
+# Live Demo
+https://github.com/user-attachments/assets/7b10d1e5-bc5c-41a1-978a-e387d811ee43
+
